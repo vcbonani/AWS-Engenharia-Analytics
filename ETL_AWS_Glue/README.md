@@ -1,4 +1,4 @@
-# AWS ETL Jobs
+# Implementando um pipeline ETL com AWS Glue
 
 Repositório contendo os scripts desenvolvidos no **AWS Glue Studio** para implementação de uma pipeline ETL em um projeto de **Engenharia de Analytics** utilizando serviços da AWS.
 
